@@ -49,3 +49,10 @@ PYTHONDONTWRITEBYTECODE= %__python setup.py install --root=%{buildroot}
 %defattr(-,root,root)
 %py_sitedir/%{module}*
 
+
+
+%changelog
+* Mon Jun 25 2012 Lev Givon <lev@mandriva.org> 0.2-1
++ Revision: 806809
+- imported package python-shortuuid
+
