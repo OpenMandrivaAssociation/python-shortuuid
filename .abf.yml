@@ -1,4 +1,2 @@
-removed_sources:
-  shortuuid-0.2.tar.gz: dc3aa885b24b8c39b2955dead70cda61043b2bcd
 sources:
-  shortuuid-0.4.2.tar.gz: 0464acc123ce7fc726e0334b9adab97562f61c4f
+  shortuuid-0.5.0.tar.gz: ae82b5f979ab328bb0ac21e149dbed21114cb991

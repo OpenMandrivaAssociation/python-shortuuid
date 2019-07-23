@@ -8,9 +8,9 @@
 Summary:	Generator library for concise, unambiguous, and URL-safe UUIDs
 
 Name:		python-%{module}
-Version:	0.4.2
-Release:	2
-Source0:	http://pypi.python.org/packages/source/s/shortuuid/shortuuid-%{version}.tar.gz
+Version:	0.5.0
+Release:	1
+Source0:	https://files.pythonhosted.org/packages/80/d7/2bfc9332e68d3e15ea97b9b1588b3899ad565120253d3fd71c8f7f13b4fe/shortuuid-0.5.0.tar.gz
 License:	BSD
 Group:		Development/Python
 Url:		https://github.com/stochastic-technologies/shortuuid/
